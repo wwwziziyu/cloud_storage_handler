@@ -1,0 +1,7 @@
+baidubce==0.8.3
+bce_python_sdk==0.9.7
+boto3==1.35.78
+botocore==1.35.78
+cos_python_sdk_v5==1.9.33
+esdk_obs_python==3.24.6.1
+oss2==2.19.1
