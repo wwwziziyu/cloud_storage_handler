@@ -11,8 +11,6 @@
 v0.0.3,增加可以查看桶内内容
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/2c69c15b-2a61-4cd3-9238-0bd588547c36" />
 
-反馈联系：wangziyu6zaizai@163.com
+欢迎反馈，交个朋友
 
-欢迎赞助
-<img width="292" alt="image" src="https://github.com/user-attachments/assets/8bf979a8-45da-47be-8162-8f1bf66ef7c6" />
-<img width="390" alt="image" src="https://github.com/user-attachments/assets/4654efba-c45b-4260-9290-0f1b33ce6b3f" />
+![IMG_1797](https://github.com/user-attachments/assets/025c8797-c680-4151-a1d0-f61ec94bb853)
